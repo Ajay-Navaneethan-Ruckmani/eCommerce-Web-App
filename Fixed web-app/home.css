@@ -1,0 +1,22 @@
+*{
+  margin : auto 0;
+  
+}
+
+nav{
+  background-color: antiquewhite;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.main-nav{
+  display: flex;
+  list-style: none;
+  font-size: 2em;
+  margin : 0;
+}
+
+.push
+{
+  margin-left: auto;
+}
